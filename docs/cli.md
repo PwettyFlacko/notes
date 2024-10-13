@@ -1,6 +1,7 @@
 # Command Line cheat sheet
 
 ## Directories
+
 | Command | Function |
 |---|---|
 | pwd | Prints the current directory |
@@ -10,12 +11,14 @@
 | cd.. | move back to parent directory |
 
 ## Output
+
 | Command | Function |
 |---|---|
 | cat <file> | Display the contents of <file> |
 | clear | Clears the contents of the CLI window |
 
 ## Files
+
 | Command | Function |
 |---|---|
 | rm <file> | Delete <file> |
