@@ -2,7 +2,7 @@
 
 ## Directories
 | Command | Function |
-|:---:|:---:|
+|---|---|
 | pwd | Prints the current directory |
 | cd <directory> | Change directory to <directory> |
 | ls | Lists the contents of the current directory |
@@ -11,13 +11,13 @@
 
 ## Output
 | Command | Function |
-|:---:|:---:|
+|---|---|
 | cat <file> | Display the contents of <file> |
 | clear | Clears the contents of the CLI window |
 
 ## Files
 | Command | Function |
-|:---:|:---:|
+|---|---|
 | rm <file> | Delete <file> |
 | rm -r <directory> | Delete <directory> |
 
