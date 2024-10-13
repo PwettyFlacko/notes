@@ -1,7 +1,11 @@
 # Notes
-## Number row characters
 
-* @ At
+## Command line cheat sheet
+[Cheat sheet](docs/cli.md)
+
+### Number row characters
+* `!` Exclamation point, Bang
+* `@` At
 * `#` Hashtag, Hash, Pound
 * `$` Dollar
 * `%` Percent, 
@@ -11,18 +15,18 @@
 * `(` Open/Left Parenthesis
 * `)` Close/Right Parenthesis
 
-## Links
+### Links
 * :desktop_computer:[GBC D2L](https://learn.georgebrown.ca/d2l/home)
 * :memo:[Microsoft 365](https://www.office.com/?auth=2)
 * :email:[GBC email](https://outlook.office.com/mail/)
 
-## Experiments
+### Experiments
 * :feelsgood:
 * :finnadie:
 * :trollface:
 * :philippines:
 
-## Keyboard shortcuts
+### Keyboard shortcuts
 Shortcuts I frequently use: 
 * Ctrl-C (copy)
 * Ctrl-V (paste)
