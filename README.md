@@ -1,7 +1,7 @@
 # Notes
 ## Number row characters
-* `!` Exclamation point, Bang
-* `@` At
+
+* @ At
 * `#` Hashtag, Hash, Pound
 * `$` Dollar
 * `%` Percent, 
@@ -21,3 +21,20 @@
 * :finnadie:
 * :trollface:
 * :philippines:
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+* Ctrl-C (copy)
+* Ctrl-V (paste)
+* Ctrl-Z (undo)
+* Win-D (show desktop)
+* Ctrl + P (Print)
+* F5 Key (refresh page in browser)
+* Win + PrtScn (Screenshot)
+* Alt + F4 (Close a program)
+* Alt + Tab (Switch tabs)
+
+Shortcuts I would like to start using: 
+* Ctrl-A (select all)
+* Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+* Windows Key + L (Lock PC)
