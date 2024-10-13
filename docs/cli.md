@@ -21,4 +21,4 @@
 | rm <file> | Delete <file> |
 | rm -r <directory> | Delete <directory> |
 
-**[Home](../README.md)**
+[Home](../README.md)
